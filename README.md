@@ -17,8 +17,8 @@
 
 ## 📫 Связаться со мной
 
-- **Email**: (karpulova.alina@gmail.com)[karpulova.alina@gmail.com]
-- [**LinkedIn**]:(https://www.linkedin.com/in/alinakarpulova/)
+- **Email**: [karpulova.alina@gmail.com](karpulova.alina@gmail.com)
+- **LinkedIn**: [alinakarpulova](https://www.linkedin.com/in/alinakarpulova/)
 - **Telegram**: [@alinakarpulova](https://t.me/alinakarpulova)
 
 Спасибо, что заглянули на мою страницу! Надеюсь, мои проекты вам понравятся. Буду рада обсудить возможности сотрудничества и новые вызовы в сфере Data Science.
