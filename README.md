@@ -1,24 +1,25 @@
-# Привет! 👋
+# Hello! 👋
 
-Я — специалист по Data Science, с глубоким интересом к анализу данных и машинному обучению. Недавно я завершила курс "Специалист по Data Science" от Яндекс.Практикума, где получила практический опыт в работе с реальными данными и создании моделей для предсказаний.
+I am a Data Science specialist with a deep interest in data analysis and machine learning. I recently completed the "Data Science Specialist", where I gained practical experience working with real data and building predictive models. I am currently pursuing a Post-Baccalaureate Diploma in Computer Science and Information Systems with a specialization in Data Analytics at Douglas College.
 
-## 🛠️ Навыки и технологии
+## 🛠️ Skills and Technologies
 
-- **Программирование**: Python, SQL
-- **Библиотеки**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
-- **Машинное обучение**: Линейная и логистическая регрессия, деревья решений, случайный лес, градиентный бустинг, кластеризация
-- **Анализ данных**: EDA, очистка данных, визуализация данных, статистический анализ
-- **Визуализация**: Matplotlib, Seaborn
-- **Инструменты**: Jupyter Notebook, Git, GitHub
+- **Programming**: Python, SQL, R
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch
+- **Machine Learning**: Linear and logistic regression, decision trees, random forest, gradient boosting (XGBoost, LightGBM), support vector machines, k-nearest neighbors, clustering (K-means, DBSCAN), neural networks, natural language processing (NLP), time series analysis
+- **Data Analysis**: EDA, data cleaning, feature engineering, data visualization, A/B testing, hypothesis testing, statistical analysis, experiment design
+- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Jupyter Notebook, Git, GitHub
 
-## 💼 Опыт работы
+## 💼 Work Experience
 
-Мой профессиональный путь включает опыт работы в IT-рекрутменте, что помогло мне развить навыки коммуникации и работы в команде. Сейчас я активно развиваю свои навыки в Data Science и готова применить их в новых проектах и задачах.
+My professional journey includes experience in IT recruitment, which helped me develop communication and teamwork skills. I am now actively developing my Data Science skills and am ready to apply them to new projects and tasks.
 
-## 📫 Связаться со мной
+## 📫 Contact Me
 
 - **Email**: [karpulova.alina@gmail.com](karpulova.alina@gmail.com)
 - **LinkedIn**: [alinakarpulova](https://www.linkedin.com/in/alinakarpulova/)
 - **Telegram**: [@alinakarpulova](https://t.me/alinakarpulova)
 
-Спасибо, что заглянули на мою страницу! Надеюсь, мои проекты вам понравятся. Буду рада обсудить возможности сотрудничества и новые вызовы в сфере Data Science.
+Thank you for visiting my page! I hope you find my projects interesting. I would be happy to discuss collaboration opportunities and new challenges in the field of Data Science.
